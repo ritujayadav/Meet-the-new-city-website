@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>MY PLACE</title>
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">"
+
+    </head>
+    <body>
+        <div class="container">
+
+            <div class="navbar">
+            
+                <nav>
+                    <ul>
+                        <li><a href="">Click here for bgm</a></li>
+                    </ul>
+
+                </nav>
+
+
+
+                
+                <div class="right-col">
+          
+                    <img src="play.jpg" id="icon">
+                </div>
+                <audio id="mySong">
+                    <source src="musick.mp3" type="audio/mp3">
+                    </audio>
+                    <script>
+                        var mySong=document.getElementById("mySong");
+                        var icon=document.getElementById("icon");
+                        icon.onclick=function()
+                        {
+                            if(mySong.paused)
+                            {
+                                mySong.play();
+                                icon.src="pause.jpg";
+            
+                            }
+                            else{
+                                mySong.pause();
+                                icon.src="play.jpg";
+            
+                            }
+                            
+                        }
+                    </script>
+
+
+
+
+
+<img src="logos.jpg"class="menu-icon">
+
+        </div>
+        <div class="row">
+            <div class="col">
+                <h1>VIRAR</h1>
+                <p>Virar is a popular city in Maharashtra, India, part of the Mumbai Metropolitan Region.Despite being in close proximity to the ever busy lifestyle of Mumbai, Virar manages to be a well known tourist place for many reason,Come explore this unique city. With exciting activities and events taking place all year round there is truly something for everyone, no matter your age or interest. We look forward to welcoming you! </p>
+                <button type="button">THE WORLD IS YOURS TO EXPLORE</button>
+            </div>
+            <div class="col">
+                <div class="card card1">
+                    <h5>TAKMAK FORT</h5>
+                    <p>The trek is a peek into the remnants of a history, and stands on a very steep hill at about 2000 feet.
+                        which is fully surrounded by a dense forest.</p>
+
+            </div>
+           
+                <div class="card card2">
+                    <h5>BASSEIN FORT</h5>
+                    <p>The Portuguese established Bassein fort.The fort is a monument of national importance and is protected by the Archaeological Survey of India.</p>
+
+            </div>
+            <div class="card card3">
+                <h5>TUNGARESHWAR NATIONAL PARK</h5>
+                <p> It is a widlife santuary which holds rare flora and fauna species which is 665 meters above sea level, making it a very popular destination for trekkers.</p>
+           </div>
+         <div class="card card4">
+    <h5>JIVDANI TEMPLE</h5>
+    <p>It is the most significant landmark in Virar located on the mountain. It is famous throughout the country for its temple of Goddess Jivdani and located 1375 steps above ground.</p>
+    
+  
+              </div>
+        </div>
+        </div>
+        </div>
+        
+        
+
+        
+   
+   
+        </body>
+</html>
