@@ -7,19 +7,25 @@ First of all, I choosed the background which suits the city
 
 
 Then I added the popular locations in the particular city using 4 cards with description of the location
-Location 1
+
+Location 1 TUNGERESHWAR NATINAL PARK
 ![tung](https://user-images.githubusercontent.com/110754843/210196605-991bf750-d788-4ca6-9919-90c23383bbbc.jpg)
-Location 2
+
+Location 2 BASSEIN FORT
 ![bass](https://user-images.githubusercontent.com/110754843/210196634-c7164912-eb67-4fcf-9fa0-bf43b2429c4f.jpg)
-Location 3
+
+Location 3 TAKMAK FORT
 ![takmak](https://user-images.githubusercontent.com/110754843/210196655-a1af0f97-1dc6-4701-a042-4c94db7e358b.jpg)
-Location 4
+
+Location 4 JIVDANI TEMPLE
 ![jiv](https://user-images.githubusercontent.com/110754843/210196666-02f24b24-9e2a-4052-a717-629fbdc199a4.jpg)
 
 Also, I have added music to get a feel
+
 ![image](https://user-images.githubusercontent.com/110754843/210196706-316dbe35-b177-4ee3-b966-c0244563d9c8.png)
 
 The final outlook will be
+
 ![image](https://user-images.githubusercontent.com/110754843/210196762-6651fbd2-dd6c-42d9-ad50-8948cc4dfb1d.png)
 
 
