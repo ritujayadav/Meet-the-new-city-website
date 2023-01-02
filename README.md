@@ -4,10 +4,14 @@ This project was made using HTML and CSS. It tells the detained description of a
 In order to do something for the place where I born, I created this website.
 First of all, I choosed the background which suits the city
 
+BACKGROUND-MUMBAI
+
 ![bgo](https://user-images.githubusercontent.com/110754843/210196620-73d637d1-fe12-4e55-b993-0cc2f1ea2925.jpg)
 
 
 Then I added the popular locations in the particular city using 4 cards with description of the location
+
+CITY- VIRAR
 
 Location 1 TUNGERESHWAR NATINAL PARK
 
